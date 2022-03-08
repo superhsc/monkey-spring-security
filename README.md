@@ -6,4 +6,4 @@ Spring Security 是 Spring 家族中历史悠久的框架，在 Spring Boot 之�
 随着 Spring Boot 的兴起，基于 Spring Boot 所提供针对 Spring Security 的自动配置方案，可以零配置使用 Spring Security 。
 
 
-- [Spring Security 是一个怎样的框架](#doces/Spring Security 是一款怎样的安全框架) 
+- [Spring Security 是一个怎样的框架](doces/Spring Security 是一款怎样的安全框架) 
